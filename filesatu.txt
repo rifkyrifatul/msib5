@@ -1,3 +1,4 @@
 pembelajaran msib
 - html adalah kerangka website
-- css adalah merapihkan dan mewarnai dokument html
+- css adalah merapihkan dan mewarnai dokument
+- github adalah pembelajaran bekerjasama di dalam project
